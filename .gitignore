@@ -10,7 +10,7 @@
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.venv
+.env
 pip-selfcheck.json
 
 ### JetBrains template
@@ -234,4 +234,4 @@ cython_debug/
 .idea/python_basic_09_07_2020.iml
 .idea/vcs.xml
 .idea/
-homeworks/
+
